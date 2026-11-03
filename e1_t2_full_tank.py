@@ -1,5 +1,5 @@
 '''
-Write a Python program that prompts the user to enter the price of petrol per litre in SEK and the number of litres of petrol they want to purchase. The program should then ask for the current USD to SEK exchange rate.
+Write a Python program that prompts the user to enter the price of petrol per litre in SEK and the number of litres of petrol they want to /npurchase. The program should then ask for the current USD to SEK exchange rate.
 
 Using this information, the program should calculate the price of petrol per gallon (where 1 gallon is equal to 3.78541 litres). It should also calculate the total cost in SEK for the amount of fuel and convert it into USD based on the exchange rate. Finally, the program should print a statement indicating the total cost in both SEK and USD, as well as the equivalent number of gallons.
 
