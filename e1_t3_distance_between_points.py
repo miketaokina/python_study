@@ -4,7 +4,9 @@
 Write a program that asks the user for coordinates for two points in a two-dimensional coordinate system (x1, y1) and (x2, y2). The program should then calculate and print the distance between the two points. The distance between two points in a two-dimensional coordinate system can be calculated using the following:
 '''
 '''
-$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+$$
+d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+$$
 '''
 '''
 See below for an example execution of the program:
