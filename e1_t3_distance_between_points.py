@@ -9,7 +9,7 @@ $$
 d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 $$
 
-[e1_t3_distance_between_points.md](./e1_t3_distance_between_points.md)
+https://github.com/miketaokina/python_study/blob/main/e1_t3_distance_between_points.md
 
 See below for an example execution of the program:
 
