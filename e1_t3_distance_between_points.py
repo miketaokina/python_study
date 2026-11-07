@@ -1,0 +1,18 @@
+'''
+## Task 3: Distance Between Points
+
+Write a program that asks the user for coordinates for two points in a two-dimensional coordinate system (x1, y1) and (x2, y2). The program should then calculate and print the distance between the two points. The distance between two points in a two-dimensional coordinate system can be calculated using the following:
+'''
+'''
+$$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
+'''
+'''
+See below for an example execution of the program:
+
+Enter the x-coordinate of the first point (x1):  3
+Enter the y-coordinate of the first point (y1):  5
+Enter the x-coordinate of the second point (x2):  7
+Enter the y-coordinate of the second point (y2):  9
+
+The distance between the points (3.0, 5.0) and (7.0, 9.0) is 5.66
+'''
