@@ -1,7 +1,9 @@
 '''
 Task 11: Ordering Cities
 
-In task 6 you ordered three integers in descending order. In this task we want you to ask for three cities instead (that is, three strings) and that you sort them alphabetically. Again, you are not allowed to use lists or similar to solve the task. See below for an example execution:
+In task 6 you ordered three integers in descending order. In this task we want you to ask for three cities instead 
+(that is, three strings) and that you sort them alphabetically. Again, you are not allowed to use lists or similar 
+to solve the task. See below for an example execution:
 
 Enter the name of the first city:  Växjö
 Enter the name of the second city:  Nybro
