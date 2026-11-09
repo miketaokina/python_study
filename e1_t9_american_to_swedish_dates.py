@@ -1,7 +1,10 @@
 '''
 Task 9: American to Swedish Dates
 
-In the USA dates are usually written on the form MM/DD/YY (where MM is a two-digit representation of the month while DD is for the day and YY for the year). The usual way to display a date in Swedish is in the format YY/MM/DD. Write a program that takes an American date as input and displays the equivalent Swedish date. You do not need to handle any errors in the input other than that the length has to be eight. See an example execution below:
+In the USA dates are usually written on the form MM/DD/YY (where MM is a two-digit representation of the month while DD is for the day 
+and YY for the year). The usual way to display a date in Swedish is in the format YY/MM/DD. Write a program that takes an American date 
+as input and displays the equivalent Swedish date. You do not need to handle any errors in the input other than that the length has to 
+be eight. See an example execution below:
 
 Enter a date in American format:  08/21/75
 Swedish date is: 75/08/21
