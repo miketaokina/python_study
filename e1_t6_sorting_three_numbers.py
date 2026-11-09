@@ -1,7 +1,8 @@
 '''
 Task 6: Sorting Three Numbers
 
-Let a program ask the user for three integers and sort them in descending order. In this exercise you are not allowed to use lists or similar to solve the task, just variables and selection. This is the same as exercise 3.8 in the book.
+Let a program ask the user for three integers and sort them in descending order. In this exercise you are not allowed to use lists or similar 
+to solve the task, just variables and selection. This is the same as exercise 3.8 in the book.
 
 Enter number 1: 5
 Enter number 2: 9
