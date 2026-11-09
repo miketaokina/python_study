@@ -1,7 +1,9 @@
 '''
 Task 7: Scissors, Rock, Paper
 
-Exercise 3.17 in Liang is about the famous game scissors, rock, paper. Implement the game according to the instructions in the book, where a scissor can cut paper, a rock knocks a scissor and a paper can wrap a rock. Use the integers 0, 1 and 2 to represent scissors, rock and paper respectively. As usual, see an example execution below:
+Exercise 3.17 in Liang is about the famous game scissors, rock, paper. Implement the game according to the instructions in the book, 
+where a scissor can cut paper, a rock knocks a scissor and a paper can wrap a rock. Use the integers 0, 1 and 2 to represent scissors, 
+rock and paper respectively. As usual, see an example execution below:
 
 Enter your choice (0 for scissors, 1 for rock, 2 for paper):  2
 Your choice: paper
