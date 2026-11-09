@@ -1,7 +1,9 @@
 '''
 Task 8: Processing Strings
 
-Let a program ask for a string and then print some information about it. The information needed to be displayed is the length of the string, the first and last letter, the number of spaces in it and if contains the string "Python". Solve the task without using iteration (that is in the next assignment). See an example execution below:
+Let a program ask for a string and then print some information about it. The information needed to be displayed is the length of the string, 
+the first and last letter, the number of spaces in it and if contains the string "Python". Solve the task without using iteration (that is 
+in the next assignment). See an example execution below:
 
 Enter a string:  The programming language Python is named after Monty Python
 Length: 59
