@@ -25,3 +25,10 @@ else:
     contains_python = 'No'
 
 print(f'Enter a string: {user_string} \nLength: {length} \nFirst and last letter: {first_letter, last_letter} \nNumber of spaces: {number_of_spaces} \nDoes it contain "Python"? {contains_python}')
+
+'''
+print('Length:', length)
+print('First and last letter:', first_letter + '', '' + last_letter)
+print('Number of spaces:', space_count)
+print('Does it contain "Python"?:', contains_python)
+'''
